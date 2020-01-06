@@ -77,8 +77,8 @@ So since it's a named export we can import it like this.
 
 Hello world.
 
-Here we go.
+## Interfaces 
 
-That's it for this lecture.
+When comparing values, TypeScript uses their shapes to verify if they're compatible.
 
-Thanks for watching.
+This is sometimes called duck typing or a structural sub typing. In TypeScript,
